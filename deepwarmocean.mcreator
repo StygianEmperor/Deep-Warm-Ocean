@@ -1,0 +1,42 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DeepWarmOcean",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deep_warm_ocean"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.deepwarmocean.deep_warm_ocean": "Deep Warm Ocean"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "deepwarmocean",
+    "modName": "Deep Warm Ocean",
+    "version": "1.0.0.0",
+    "description": "Did you know that Deep Warm Ocean biomes don\u0027t generate? This reimplements them.",
+    "author": "Stygian Emperor",
+    "websiteURL": "https://github.com/StygianEmperor",
+    "license": "Creative Commons Attribution-NonCommercial 3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": true,
+    "modPicture": "coral_reef_depth",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "credits": "Stygian Emperor \u0026 MCreator",
+    "modElementsPackage": "net.mcreator.deepwarmocean",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="deepwarmocean"
+version="1.0.0.0"
+displayName="Deep Warm Ocean"
+credits="Stygian Emperor & MCreator"
+displayURL="https://github.com/StygianEmperor"
+logoFile="logo.png"
+authors="Stygian Emperor"
+description='''
+Did you know that Deep Warm Ocean biomes don't generate? This reimplements them.
+'''
+
+[[dependencies.deepwarmocean]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
